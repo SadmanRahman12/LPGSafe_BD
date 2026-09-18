@@ -1,0 +1,6 @@
+<!-- LPGSafe Bangladesh Static Public Assets -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#061021"/>
+  <path d="M16 6L24 10V18C24 23 16 26 16 26C16 26 8 23 8 18V10L16 6Z" fill="#10B981" stroke="#34D399" stroke-width="1.5"/>
+  <path d="M16 11V19M16 19L19 16M16 19L13 16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
